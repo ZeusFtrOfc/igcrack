@@ -17,6 +17,10 @@ $ pip install stdiomask
 
 $ pip install cython
 
+$ git clone https://github.com/ZeusFtrOfc/igcrack
+
+$ cd igcrack
+
 $ python start.py
 
 
