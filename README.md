@@ -1,4 +1,4 @@
-# igcrack
+# igcrack premium tools
 
 
 • RUN TERMUX :
@@ -12,6 +12,8 @@ $ pkg install git
 $ pip install bs4
 
 $ pip install requests
+
+$ pip install stdiomask
 
 $ pip install cython
 
