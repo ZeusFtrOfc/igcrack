@@ -1,7 +1,7 @@
 # igcrack
 
 
-RUN TERMUX :
+• RUN TERMUX :
 
 $ pkg update && pkg upgrade
 
@@ -19,12 +19,12 @@ $ python start.py
 
 
 
-Harga Key :
+• Harga Key :
 - 25.000 key for 1 week
 - 50.000 key for 2 week
 - 100.000 key for 1 month
 - 300.000 key for unlimited/lifetime
 - 500.000 for opensource + jadi author
 
-Official Website :
+• Official Website :
 https://axvdigital.com
