@@ -1,4 +1,4 @@
-# igcrack premium tools
+# igcrack premium++ tools
 
 
 • RUN TERMUX :
@@ -34,3 +34,5 @@ $ python start.py
 
 • Official Website :
 https://axvdigital.com
+
+• No Logger
