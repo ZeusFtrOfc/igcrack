@@ -37,4 +37,5 @@ $ python start.py
 # Official Website :
 https://axvdigital.com
 
-• No Logger!
+# Testimoni
+https://t.me/axvstoretestimoni
