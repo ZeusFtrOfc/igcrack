@@ -13,6 +13,8 @@ $ pip install bs4
 
 $ pip install rich
 
+$pip install colorama
+
 $ pip install requests
 
 $ pip install stdiomask
@@ -32,6 +34,7 @@ $ python start.py
 - 100.000 key for 1 month
 - 300.000 key for unlimited/lifetime
 - 500.000 for opensource + jadi author
+
 • BUY = FREE TUTORIAL
 
 # Official Website :
