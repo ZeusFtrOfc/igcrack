@@ -28,14 +28,14 @@ $ cd igcrack
 $ python start.py
 
 
-# Harga Key :
-- 25.000 key for 1 week
-- 50.000 key for 2 week
-- 100.000 key for 1 month
-- 300.000 key for unlimited/lifetime
-- 500.000 for opensource + jadi author
+# Price Key :
+- 25.000 / 1.8$ key for 1 week
+- 50.000 / 3.5$ key for 2 week
+- 100.000 key / 7.1$ for 1 month
+- 300.000 key / 21.5$ for unlimited/lifetime
+- 500.000 for / 35.7$ opensource, become an author
 
-• BUY = FREE TUTORIAL
+• BUY = FREE TUTORIAL.
 
 # Official Website :
 https://axvdigital.com
